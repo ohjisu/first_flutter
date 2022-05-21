@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## Login and Dice game
 
-This project is a starting point for a Flutter application.
+- 로그인 : 아이디 "dice" 암호 "1234" 인지 체크만 함
+- 주사위 : 랜덤 숫자 2개 생성
 
-A few resources to get you started if this is your first Flutter project:
+## 구성
+- main.dart, dice.dart
+- assets 폴더에 이미지 7개
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/77333739/169639154-a312231c-66d9-45d5-bf7f-3082a36192f9.png">
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/77333739/169639169-de617abc-5478-4ea1-9e63-bfbe2f1a1072.png">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
